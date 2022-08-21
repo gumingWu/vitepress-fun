@@ -3,7 +3,9 @@
   "description": "vitepress趣玩系列工程",
   "version": "1.0.0",
   "main": "index.js",
-  "devDependencies": {},
+  "devDependencies": {
+    "vue": "^3.2.37"
+  },
   "dependencies": {
     "vitepress": "^1.0.0-alpha.8"
   },
