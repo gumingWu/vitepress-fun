@@ -22,4 +22,7 @@
   --vp-c-brand: #D939CD;
   --vp-c-brand-light: #D939CD;
   --vp-c-brand-dark: #D939CD;
+
+  /* 代码块背景色 */
+  --vp-code-block-bg: rgba(125,125,125,.04);
 }
