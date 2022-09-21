@@ -1,6 +1,3 @@
-# Guide
+# Hello World
 
-```js
-const str = '111'
-const num = 111
-```
+Im Guide

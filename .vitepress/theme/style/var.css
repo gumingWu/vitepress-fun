@@ -17,4 +17,9 @@
   --vp-button-brand-hover-bg: #D939CD;
 
   --vp-button-brand-active-border: #F6CEEC;
+
+  /* 主题基色 */
+  --vp-c-brand: #D939CD;
+  --vp-c-brand-light: #D939CD;
+  --vp-c-brand-dark: #D939CD;
 }
