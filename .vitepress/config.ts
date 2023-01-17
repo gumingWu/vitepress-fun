@@ -9,7 +9,6 @@ export default defineConfig({
     },
   },
   markdown: {
-    lineNumbers: true,
     theme: {
       light: "vitesse-light",
       dark: "vitesse-dark",

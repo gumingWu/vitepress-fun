@@ -14,3 +14,4 @@ yarn-error.log
 .idea
 lerna-debug.log
 metadata.json
+.vitepress/cache

@@ -27,6 +27,3 @@ features:
     title: Simple and minimal, always
     details: Lorem ipsum...
 ---
-
-<div class="freestyle" style="color: red; font-size: 24px;">这是个有style的随便写点</div>
-<FreeStyle></FreeStyle>
