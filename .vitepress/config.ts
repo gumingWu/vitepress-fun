@@ -3,7 +3,13 @@ import { defineConfig } from "vitepress";
 // --vp-code-block-bg
 export default defineConfig({
   title: "VitePress-Fun",
+  vite: {
+    server: {
+      port: 5177,
+    },
+  },
   markdown: {
+    lineNumbers: true,
     theme: {
       light: "vitesse-light",
       dark: "vitesse-dark",
