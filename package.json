@@ -4,10 +4,10 @@
   "version": "1.0.0",
   "main": "index.js",
   "devDependencies": {
-    "vue": "^3.2.45"
+    "vue": "^3.2.47"
   },
   "dependencies": {
-    "vitepress": "1.0.0-alpha.36"
+    "vitepress": "1.0.0-alpha.45"
   },
   "scripts": {
     "dev": "vitepress dev",
